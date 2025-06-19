@@ -1,0 +1,34 @@
+modify logo
+remove notification
+remove like love symbol
+remove indias #1 Loacal Service platform
+(if possible change background color of home page)
+remove the voice search
+remove the current location button
+remove the filter button in the home page search bar
+remove watch demo button
+remove 50k customers
+space gap
+give indian photos and indian names
+remove join 500000 happy users
+implement page refresh for all
+about us page get in touch just give the contact information
+sign in with user name
+remove forgot password
+sign up page directly display service provider and customer toggle instead of email and password
+for mobile number validation
+email is not mandatory for service providers
+remove 15K active porividers
+For Admin DAshboard remove total revenue,avg rating,platform growth,recent activity
+user management admin can create read update delete 
+remove analytics and reports
+remvove settings
+For Customer DAshboard remove favorite providers,total spent,past bookings,favorite bookings
+remove favorites
+profile information username is to be there which should be uneditable remove preferneces
+remove settings
+For Service Provider Dashboard remove upoming jobs remove recent reviews
+the rating should be only from 1to5 without any comments
+remove all jobs,my services,earnings,
+profile information username is to be there which should be uneditable remove hourly rate and email is not mandatory for service providers
+remove settings
